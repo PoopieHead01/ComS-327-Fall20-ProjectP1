@@ -1,6 +1,6 @@
 # Digital Sound
 
-Sound is simply a wave transmitted through the atmospherethrough changing pressure. To generate a sound wave, we can use a speaker to vibrate which in turn compresses and decompresses the air around it.  Done repeatedly, it produces the changesin pressure that we perceiveas sound. 
+Sound is simply a wave transmitted through the atmosphere through changing pressure. To generate a sound wave, we can use a speaker to vibrate which in turn compresses and decompresses the air around it.  Done repeatedly, it produces the changes in pressure that we perceive as sound. 
 
 ### Table of Usage Contents
 
